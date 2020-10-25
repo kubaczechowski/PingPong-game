@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GameOverWorld
+comment1.params=p1Wins\ mode
+comment1.target=GameOverWorld(boolean,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment4.params=
+comment4.target=void\ backgroundChange()
+numComments=5

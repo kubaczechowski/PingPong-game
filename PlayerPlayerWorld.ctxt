@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlayerPlayerWorld
+comment1.params=
+comment1.target=PlayerPlayerWorld()
+comment2.params=
+comment2.target=void\ checkWin()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=amount
+comment4.target=void\ addScoreP1(int)
+comment5.params=amount
+comment5.target=void\ addScoreP2(int)
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PingWorld
+comment1.params=
+comment1.target=PingWorld()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=private\ void\ checkLose(){\r\n\ \ \ \ \ \ \ \ if\ (endGame\ \=\ true){\r\n\ \ \ \ \ \ \ \ \ \ \ \ Greenfoot.setWorld(new\ GameOverWorld(true));\r\n\ \ \ \ \ \ \ \ }\ \r\n}
+comment3.params=amount
+comment3.target=void\ addLevel(int)
+numComments=4
